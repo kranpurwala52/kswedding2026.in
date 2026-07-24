@@ -1,1 +1,1 @@
-# kswedding2026.in
+Starter package
