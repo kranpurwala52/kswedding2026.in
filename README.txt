@@ -1,1 +1,1 @@
-Merge these rules into your existing style.css.
+Replace index.html, style.css and script.js with these files.
