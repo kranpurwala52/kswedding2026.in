@@ -1,6 +1,1 @@
-body{margin:0;font-family:Georgia;background:linear-gradient(#fffdf7,#f7f0dc);color:#6d5200}
-.hero{text-align:center;padding:60px 20px}.mono{font-size:44px;color:#caa329}
-.btn{display:inline-block;margin-top:15px;background:#caa329;color:#fff;padding:12px 22px;border-radius:30px;text-decoration:none}
-.card{background:#fff;border:1px solid #d4af37;border-radius:12px;padding:18px;margin:16px auto;max-width:700px;box-shadow:0 4px 10px rgba(0,0,0,.08)}
-#count{font-weight:bold;margin:15px;font-size:20px}
-footer{text-align:center;padding:30px}
+body{font-family:Georgia;background:#0b0b0b;color:#d4af37;margin:0}.hero{text-align:center;padding:60px}.mono{font-size:48px}.btn{background:#b58b18;color:#fff;padding:12px 24px;border-radius:30px;text-decoration:none}.timeline div{border-left:3px solid #d4af37;margin:18px;padding:12px;background:#161616}footer{text-align:center;padding:30px}
