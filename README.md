@@ -1,1 +1,1 @@
-Merge timeline.html content into your website after hero section and include timeline.css.
+Insert events_part3.html below previous timeline and merge CSS into style.css.
