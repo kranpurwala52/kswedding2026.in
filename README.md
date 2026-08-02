@@ -1,1 +1,1 @@
-Upload these files to GitHub.
+Merge timeline.html content into your website after hero section and include timeline.css.
