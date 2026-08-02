@@ -1,7 +1,1 @@
-
-body{margin:0;background:#080808;color:#D4AF37;font-family:Georgia,serif}
-.hero{text-align:center;padding:70px 20px}
-.mono{font-size:60px;margin-bottom:20px}
-.subtitle{font-size:22px}
-#count{display:block;font-size:34px;font-weight:bold;color:#D4AF37;margin:35px auto;padding:10px;line-height:1.4}
-.btn{display:inline-block;margin-top:10px;padding:16px 34px;background:#9a7715;color:#fff;text-decoration:none;border-radius:40px}
+body{font-family:Georgia;background:#fff;color:#6d4c00;text-align:center}.hero{padding:60px;background:linear-gradient(#fff,#f8f3e6);min-height:100vh}.monogram{font-size:64px;color:#C9A227}#countdown{font-size:30px;color:#C9A227;margin:30px}.button{background:#C9A227;color:#fff;padding:16px 32px;border-radius:30px;text-decoration:none;display:inline-block}
